@@ -1,1 +1,11 @@
 Test
+
+first time
+git --global config user.email "xyz@gmail.com"
+git --global config user.name "XYZ"
+
+regular commands
+git init
+git status
+git add .
+git commit -m"Version1"
